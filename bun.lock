@@ -14,9 +14,11 @@
         "@primeng/themes": "^19.0.10",
         "@tailwindcss/postcss": "^4.1.0",
         "postcss": "^8.5.3",
+        "primeicons": "^7.0.0",
         "primeng": "^19.0.10",
         "rxjs": "~7.8.0",
         "tailwindcss": "^4.1.0",
+        "tailwindcss-primeui": "^0.6.1",
         "tslib": "^2.3.0",
         "zone.js": "~0.15.0",
       },
@@ -1412,6 +1414,8 @@
 
     "postcss-value-parser": ["postcss-value-parser@4.2.0", "", {}, "sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ=="],
 
+    "primeicons": ["primeicons@7.0.0", "", {}, "sha512-jK3Et9UzwzTsd6tzl2RmwrVY/b8raJ3QZLzoDACj+oTJ0oX7L9Hy+XnVwgo4QVKlKpnP/Ur13SXV/pVh4LzaDw=="],
+
     "primeng": ["primeng@19.0.10", "", { "dependencies": { "@primeuix/styled": "^0.3.2", "@primeuix/utils": "^0.3.2", "tslib": "^2.3.0" }, "peerDependencies": { "@angular/animations": "^19.0.0", "@angular/cdk": "^19.0.0", "@angular/common": "^19.0.0", "@angular/core": "^19.0.0", "@angular/forms": "^19.0.0", "@angular/platform-browser": "^19.0.0", "@angular/router": "^19.0.0", "rxjs": "^6.0.0 || ^7.8.1" } }, "sha512-pVvywU6WoDtS6cwyGm5wyHp/RPqsqtTL3Z6eNgwsP7wMRpNYxVQB2W5ewF64byP8bqFqRQMWY2ZPj0lDeTQ/sA=="],
 
     "proc-log": ["proc-log@5.0.0", "", {}, "sha512-Azwzvl90HaF0aCz1JrDdXQykFakSSNPaPoiZ9fm5qJIMHioDZEi7OAdRwSm6rSoPtY3Qutnm3L7ogmg3dc+wbQ=="],
@@ -1603,6 +1607,8 @@
     "symbol-observable": ["symbol-observable@4.0.0", "", {}, "sha512-b19dMThMV4HVFynSAM1++gBHAbk2Tc/osgLIBZMKsyqh34jb2e8Os7T6ZW/Bt3pJFdBTd2JwAnAAEQV7rSNvcQ=="],
 
     "tailwindcss": ["tailwindcss@4.1.0", "", {}, "sha512-vBYstoFnvUZCDxaauNGQQEvJNQgCd1vSMDRYuZZMH1xRRcTboOk1rJrW5yFkEabU9X6Yx1C4LQ+QvPOvQj4Daw=="],
+
+    "tailwindcss-primeui": ["tailwindcss-primeui@0.6.1", "", { "peerDependencies": { "tailwindcss": ">=3.1.0" } }, "sha512-T69Rylcrmnt8zy9ik+qZvsLuRIrS9/k6rYJSIgZ1trnbEzGDDQSCIdmfyZknevqiHwpSJHSmQ9XT2C+S/hJY4A=="],
 
     "tapable": ["tapable@2.2.1", "", {}, "sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ=="],
 
